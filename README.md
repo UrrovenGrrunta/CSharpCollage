@@ -1,0 +1,3 @@
+# CSharpCollage
+
+**Project status: похуй**
